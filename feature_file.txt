@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-feature file for master
-=======
 feature file for future
 >>>>>>> FutureBranch
 
