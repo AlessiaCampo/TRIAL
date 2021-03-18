@@ -1,2 +1,2 @@
-feature file for mast
+feature file for master
 
